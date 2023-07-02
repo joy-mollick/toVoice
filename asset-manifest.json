@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/toVoice/static/css/main.b39f6d31.css",
-    "main.js": "/toVoice/static/js/main.fd869900.js",
+    "main.js": "/toVoice/static/js/main.4d3dec60.js",
     "static/js/787.6e2bde94.chunk.js": "/toVoice/static/js/787.6e2bde94.chunk.js",
     "static/media/logo.svg": "/toVoice/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/toVoice/index.html",
     "main.b39f6d31.css.map": "/toVoice/static/css/main.b39f6d31.css.map",
-    "main.fd869900.js.map": "/toVoice/static/js/main.fd869900.js.map",
+    "main.4d3dec60.js.map": "/toVoice/static/js/main.4d3dec60.js.map",
     "787.6e2bde94.chunk.js.map": "/toVoice/static/js/787.6e2bde94.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b39f6d31.css",
-    "static/js/main.fd869900.js"
+    "static/js/main.4d3dec60.js"
   ]
 }
